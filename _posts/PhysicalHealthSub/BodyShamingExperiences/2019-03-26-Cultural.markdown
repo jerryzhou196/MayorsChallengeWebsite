@@ -1,0 +1,113 @@
+<!-- ---
+layout: post
+title:  "Cultural Discrimination Experiences"
+date:   2016-06-13 10:51:47 +0530
+img: image-4.png
+category: "Phealth"
+---
+
+
+<div class="row pack">
+    {% for post in site.posts %}  
+    {% if post.category == "NExperience" %}
+            <div class="col-md-4 card">
+             <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
+                <div class="panel panel-default">
+                  {% if post.img %}
+                  <img width="100%" class="img-circle" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  {% else %}
+                  <img width="100%"  src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+                  {% endif %}
+                  <div class="panel-body">
+                    <h2 class="panel-title">{{ post.title | truncate: 50 }}</h2> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                  </div>
+                  <!-- <div class="panel-body"><small>
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
+                  </div> -->
+                </div>
+                </a>
+            </div> 
+            {% endif %}
+          {% endfor %}
+    </div> 
+
+<div class="jumbotron">
+  <h1>Jumbotron</h1>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+
+
+<div class="jumbotron">
+  <h1>Jumbotron</h1>
+  <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <p><a class="btn btn-primary btn-lg">Learn more</a></p>
+</div>
+
+<div class="row">
+    <div class="col-lg-50">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Grade 10, Male </h3>
+          </div>
+          <div class="panel-body">
+            I thought I was straight my whole my life.
+          </div>
+        </div>
+    </div>
+
+
+
+   <div class="col-lg-20">
+        <div class="panel panel-success">
+          <div class="panel-heading">
+            <h3 class="panel-title">Panel success</h3>
+          </div>
+          <div class="panel-body">
+            Panel content
+          </div>
+        </div>
+    </div>
+
+
+
+   <div class="col-lg-20">
+        <div class="panel panel-warning">
+          <div class="panel-heading">
+            <h3 class="panel-title">Panel warning</h3>
+          </div>
+          <div class="panel-body">
+            Panel content
+          </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-20">
+        <div class="panel panel-danger">
+          <div class="panel-heading">
+            <h3 class="panel-title">Panel danger</h3>
+          </div>
+          <div class="panel-body">
+            Panel content
+          </div>
+        </div>
+    </div>
+
+
+
+   <div class="col-lg-20">
+        <div class="panel panel-info">
+          <div class="panel-heading">
+            <h3 class="panel-title">Panel info</h3>
+          </div>
+          <div class="panel-body">
+            Panel content
+          </div>
+        </div>
+    </div>
+
+   <div class="col-lg-20">
+   

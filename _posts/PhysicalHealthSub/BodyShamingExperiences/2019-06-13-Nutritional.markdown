@@ -1,15 +1,14 @@
+<!-- ---
+layout: post
+title: "Nutrition and Fitness Experiences"
+date: 2016-06-13 10:51:47 +0530
+img: image-1.png
+category: "Phealth"
 ---
-layout: default
-title:  "Depression"
-date:   2016-06-13 10:51:47 +0530
-img: image-2.png
-category: "Homepage"
----
-
 <div class="row pack">
 
     {% for post in site.posts %}  
-    {% if post.category == "Depression" %}
+    {% if post.category == "NExperience" %}
             <div class="col-md-4 card">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel panel-default">
@@ -21,7 +20,7 @@ category: "Homepage"
                   {% endif %}
                   
                   <div class="panel-body">
-                    <h2 class="panel-title">{{ post.title | truncate: 25 }}</h2> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                    <h2 class="panel-title">{{ post.title | truncate: 50 }}</h2> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
                   </div>
                   
                   <!-- <div class="panel-body"><small>
@@ -35,3 +34,14 @@ category: "Homepage"
           {% endfor %}
 
     </div> 
+
+
+
+
+
+
+
+
+
+
+

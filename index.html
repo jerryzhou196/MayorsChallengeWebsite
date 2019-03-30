@@ -2,11 +2,17 @@
 layout: default
 ---
 
+<div class= "row">
+<div class ="col-md-12">
+<h1> What's Troubling You?</h1>
+</div>
+
+
 <div class="home">
  
   
+    
     <div class="row pack">
-
         {% for post in paginator.posts %}  
         {% if post.category == "Homepage" %} 
             <div class="col-md-4 card">
@@ -20,7 +26,7 @@ layout: default
                   {% endif %}
                   
                   <div class="panel-body">
-                    <h2 class="panel-title">{{ post.title | truncate: 25 }}</h2> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                    <h2 class="panel-title">{{ post.title | truncate: 50 }}</h2> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
                   </div>
                   
                   <!-- <div class="panel-body"><small>

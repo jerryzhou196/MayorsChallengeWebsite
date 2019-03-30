@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submit Your Experiences
+title: Professional Resources
 permalink: /about/
 ---
 

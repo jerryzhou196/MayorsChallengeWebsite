@@ -1,10 +1,9 @@
----
+<!-- ---
 layout: post
-title:  "Bullying"
+title:  "Body Image Experiences"
 date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
 img: image-1.png
-categories: [one, two]
+category: "Phealth"
 ---
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 
