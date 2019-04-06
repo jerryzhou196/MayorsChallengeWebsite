@@ -1,7 +1,0 @@
----
-layout: default
-title:  "General Stress"
-date:   2016-06-13 10:51:47 +0530
-img: image-2.png
-category: "Homepage"
----

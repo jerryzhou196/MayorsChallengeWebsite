@@ -1,0 +1,5 @@
+.panel-primary (Grade 7+8)
+.panel-success  (Grade 9)
+.panel-info,    (Grade 10)
+.panel-warning,  (Grade 11)
+.panel-danger (Grade 12)
