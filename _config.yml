@@ -20,11 +20,11 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 
 #footer
 
-built-by: webjeda
+built-by: Jerry Zhou
 
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: Jerry Zhou
+   link: 
 
 # Build settings
 markdown: kramdown
@@ -36,15 +36,15 @@ paginate_path: /page:num/
 analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+disqus: no
+disqus-shortname: 
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+facebook: www.google.ca
+quora: 
+twitter: www.google.ca
+github: https://github.com/jerryzhou196/MayorsChallengeWebsite
+email: jerryz2@learn.cssd.ab.ca
 
 #facebook like box
 fb-like-box: yes

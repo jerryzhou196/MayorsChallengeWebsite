@@ -5452,16 +5452,29 @@ button.list-group-item-danger.active:focus {
 }
 .panel {
   margin-bottom: 22px;
-  background-color: #ffffff;
+  background-color: #EDEAEA;
   border: 1px solid transparent;
   border-radius: 4px;
-
+}
+.fixed-panel {
+ min-height: 325px;
+ max-height: 325px;
+ overflow-y: scroll;
+ }
+ 
+.bigboy {
+  font-size: 50px;
+  font-weight: bold;
+}
+.supertitle {
+  color: #678ed3
 }
 .panel-body {
-      padding: 5px 15px;
+      padding: 20px 45px;
+      font-size: 20px;
 }
 .panel-heading {
-  padding: 10px 15px;
+  padding: 20px 30px;
   border-bottom: 1px solid transparent;
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
@@ -5472,7 +5485,7 @@ button.list-group-item-danger.active:focus {
 .panel-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 18px;
+  font-size: 30px;
   color: inherit;
 }
 .panel-title > a,

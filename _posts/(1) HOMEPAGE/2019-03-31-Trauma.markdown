@@ -1,17 +1,49 @@
 ---
 layout: default
-title:  "Life Issues"
+title:  "Trauma"
 date:   2016-06-13 10:51:47 +0530
-img: life.png
+img: trauma.png
 category: "Homepage"
 ---
-<div class = "row col-md-12">
-<h1>Filler Content </h1>  <!-- life1 -->
+<div class = "bigboy row col-md-12">
+Child Abuse <!-- trauma -->
 </div>
 
 <div class="row">
         {% for post in site.posts %}  
-        {% if post.category == "life1" %} 
+        {% if post.category == "trauma1" %} 
+            <div class="col-md-4">
+             <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
+                <div class="panel fixed-panel {{ post.panelcolor }}">
+                <div class = "panel-heading" >
+                <h3 class = "panel-title"> {{ post.title | truncate: 50 }} </h3>
+                </div>
+                  <!-- {% if post.img %}
+                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  {% else %}
+                  <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+                  {% endif %} -->
+                  <div class="panel-body">
+                    <!-- <small> --> 
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 150 }} <!-- </small> --> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                  </div>
+                  <!-- <div class="panel-body"><small>
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
+                  </div> -->
+                </div>
+                </a>
+            </div>
+         {% endif %}
+          {% endfor %}
+    </div> 
+
+<div class = "bigboy row col-md-12">
+Death Of A Loved One <!-- life2 -->
+</div>
+
+<div class="row">
+        {% for post in site.posts %}  
+        {% if post.category == "trauma2" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel {{ post.panelcolor }}">
@@ -24,8 +56,8 @@ category: "Homepage"
                   <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
                   {% endif %} -->
                   <div class="panel-body">
-                    <small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small><!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                    <!-- <small> --> 
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }} <!-- </small> --> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
                   </div>
                   <!-- <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
@@ -37,13 +69,13 @@ category: "Homepage"
           {% endfor %}
     </div> 
 
-<div class = "row col-md-12">
-<h1>Filler Content 2</h1>  <!-- life2 -->
+<div class = "bigboy row col-md-12">
+Community Violence <!-- life2 -->
 </div>
 
 <div class="row">
         {% for post in site.posts %}  
-        {% if post.category == "life2" %} 
+        {% if post.category == "trauma3" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel {{ post.panelcolor }}">
@@ -56,8 +88,8 @@ category: "Homepage"
                   <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
                   {% endif %} -->
                   <div class="panel-body">
-                    <small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small><!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                    <!-- <small> --> 
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }} <!-- </small> --> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
                   </div>
                   <!-- <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
@@ -68,3 +100,5 @@ category: "Homepage"
          {% endif %}
           {% endfor %}
     </div> 
+
+    
