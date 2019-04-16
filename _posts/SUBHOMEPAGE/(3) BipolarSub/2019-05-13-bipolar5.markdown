@@ -6,10 +6,22 @@ img: image-1.png
 category: "bipolar2"
 panelcolor: "panel-danger"
 ---
-This is where we will place professional resources that pertain to the topic above. If we win the Mayor’s Challenge, a portion of the money will be used towards hiring a professional therapist to write reliable and trusted links that prove the most helpful for Teenagers.  
+This is where we will place professional resources that pertain to the topic above. 
+View the anxiety page for a proof-of-concept with tailored resources and real stories.
 
 Here are a few generalized links we have found so far:
-
-<a href="https://calgaryconnecteen.com/" class="btn btn-success">Calgary Connecteen</a>
-<a href="http://cmha.calgary.ab.ca/" class="btn btn-info">Calgary Mental Health Association</a>
-<a href="https://www.distresscentre.com/" class="btn btn-warning">Distress Centre</a>
+<style>
+.btn {
+margin-top: 5px;
+}
+</style>
+<a href="https://calgaryconnecteen.com/" class="btn btn-primary">Calgary Connecteen</a>
+<a href="http://cmha.calgary.ab.ca/" class="btn btn-success">Calgary Mental Health Association</a>
+<a href="https://www.distresscentre.com/" class="btn btn-info">Distress Centre</a>
+<a href=" https://students.ubc.ca/health/health-topics/stress-anxiety" class = "btn btn-success"> Managing stress</a>
+<a href="https://www.anxietycanada.com/" class = "btn btn-warning"> The Trevor Project </a>
+<a href="http://www.ccdus.ca/Eng/Pages/Addictions-Treatment-Helplines-Canada.aspx" class = "btn btn-danger"> Helpline Canda </a>
+<a href="https://www.alberta.ca/bullying-find-supports.aspx" class = "btn btn-primary"> Alberta Help </a>
+<a href= "http://teenmentalhealth.org" class = "btn btn-danger"> Teen Mental Health Guide </a>
+<a href = "https://kidshelpline.com.au/teens/issues/coping-with-loneliness" class = "btn btn-info"> Kids Help Line  </a>
+<a href = "https://www.anxietycanada.com/contact" class = "btn btn-success"> Anxiety Canada Resources</a>
