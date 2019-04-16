@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Your Story Here
-date:   2016-06-13 10:51:47 +0530
+title: Your Story Here
+date: 2016-06-13 10:51:47 +0530
 img: image-4.png
 category: "bipolar1"
 panelcolor: "panel-info"
