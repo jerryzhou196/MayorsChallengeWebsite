@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Submit Your Experiences
+title: 
 permalink: /contact/
 ---
-
-
-Insert your contact details or a contact form here.
-
-Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
+<div class = "row">
+<div class = "col-md-12">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfejXQtvhXswu6JT0ojBQnVw8C_doaS7smQDE8BuBLwxV6AtQ/viewform?embedded=true" width="640" height="788" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</div>
+</div>

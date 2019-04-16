@@ -2,16 +2,16 @@
 layout: default
 title:  "OCD"
 date:   2016-06-13 10:51:47 +0530
-img: OCD.png
+img: ocd.png
 category: "Homepage"
 ---
-<div class = "bigboy row col-md-12">
-Filler Content  <!-- stress -->
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+Checking  <!-- stress -->
 </div>
 
 <div class="row">
         {% for post in site.posts %}  
-        {% if post.category == "OCD1" %} 
+        {% if post.category == "ocd1" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
                 <div class="panel fixed-panel {{ post.panelcolor }}">
@@ -37,16 +37,16 @@ Filler Content  <!-- stress -->
           {% endfor %}
     </div> 
 
-<div class = "bigboy row col-md-12">
-<h1>Filler Content 2</h1>  <!-- life2 -->
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+Intrusive Thoughts <!-- life2 -->
 </div>
 
 <div class="row">
         {% for post in site.posts %}  
-        {% if post.category == "OCD" %} 
+        {% if post.category == "ocd2" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel {{ post.panelcolor }}">
+                <div class="panel fixed-panel {{ post.panelcolor }}">
                 <div class = "panel-heading" >
                 <h3 class = "panel-title"> {{ post.title | truncate: 50 }} </h3>
                 </div>

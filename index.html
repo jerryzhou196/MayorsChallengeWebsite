@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+<script src="{{site.baseurl}}/js/main.js"></script>
 
+<!-- <div class = "damn" style = "margin-left: 80px; margin-right: 80px;">  fontsize: 6vh; text-align: center; -->
 <div class= "row">
-<div class =" bigboy col-md-12">
+<div class = "bigboy col-md-12" style="margin-bottom: -10px; margin-top: -10px; font-size: 40px"> 
  What's Troubling You?
 </div>
 </div>
@@ -11,7 +13,7 @@ layout: default
 
 <div class="home">
     <div class="row pack">
-        {% for post in paginator.posts %}  
+        {% for post in site.posts %}  
         {% if post.category == "Homepage" %} 
             <div class="col-md-4 card">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
@@ -37,7 +39,8 @@ layout: default
           {% endfor %}
 
     </div> 
-    
+
+<!-- 
 <div class="row">
     <div class="col-md-4">  </div>
     <div class="col-md-4">
@@ -71,3 +74,4 @@ layout: default
     <div class="col-md-4">  </div>
 </div>
 </div>
+ -->

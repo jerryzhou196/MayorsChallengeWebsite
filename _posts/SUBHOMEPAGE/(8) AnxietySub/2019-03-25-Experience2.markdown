@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  My Natural Defence
+title:  Haunted by Anxiety
 date:   2016-06-13 10:51:47 +0530
 img: image-1.png
 category: "anxiety1"
 panelcolor: "panel-info"
 ---
-‘How can I help?’ and ‘What can I do?’ - these two questions have been at numerous times asked by concerned friends, but as I have pondered what response would best suit the occasion, I’ve never truly answered, because simply, I’ve not known the answer.
+I’ve been pretty much battling with anxiety and depression most of my life for various reasons. However, the reason I’ve realized that possibly made my mental health quite difficult to bare was the fact that my parents in the beginning weren’t all that supportive. I assumed because I was honest and upfront with them about my issues, it would be easier to overcome them. I definitely thought wrong.
 
-How do you let others help you when you don’t always know how to help yourself? That very question for me can be taken on an individual level, and a macroscopic level just as much.
+My parents are practicing Muslims who believed my mental illness was just all in my head and if I was closer to God, it would all just go away. With them constantly telling me that at the age of 13, I had no idea how to even deal with these issues I had. I would read the Quran and pray as they suggested, but it just made me more angry at God because I felt like I wasn’t making any progress. I also felt immense pressure like I had to get better in order for my parents to be fulfilled in their faith. It was like I was a prisoner in my own thoughts and I wasn’t allowed to feel how I needed to feel.
 
-It’s a tricky situation, allowing and trusting others to know the ins and outs of the bipolar vortex, from the inside my life can feel chaotic, and yet sometimes, it feels serene and calm, but I know that doesn’t always last, it ebbs and flows. So, when the winds pick up, how can we let others help?
+Although they did take me to see some psychiatrists and therapists, the doctors I saw weren’t the best and my parents still refused to let the doctors prescribe me any medication. My parents kept arguing that if I just prayed more often and really believe in the scripture, I would be a lot better. That did not motivate me into getting better help or even keep seeking any help.
 
-My favourite kind of movies are road movies, Dumb and Dumber stands out beyond many. And what you’ll find with most road movies is there’s an ongoing dynamic between two characters, and that’s just it. Sometimes all I’ve ever needed is company, a friend, a sounding board, a non-judgemental sponge. Someone who isn’t going to fix the issue, but generously offer their kindness and empathy. A friend's ears can sometimes be all that is required.
+As things started to escalade in high school on to college, I fortunately found a support system of amazing friends that made me realize that everything I was feeling were valid. They also helped me build the courage to confront my parents about my mental health and really admit to them that I needed help.
 
-That’s what works for me, it might not work for you, but the moment I offer the baton to another, the weight from my shoulder's lifts, and the tension in my gut eases. But what if there’s no one around? What if that friend is not available?
+After some blood, sweat and tears, my parents came to their senses and took me to a therapist that I ended up really enjoying. He helped me get down to the nitty gritty of my issues and made me feel so validated. It was extremely liberating to be able to express every emotion completely guilt free with no judgement. My therapist discussed with my parents the process in which would help me get better and that included me being on medication. Though with some hesitation, my parents ended up agreeing that that was the best plan for me.
+Even though my parents, especially my dad still thinks having a strong faith is the best solution to mental illness, their open mind literally saved my life. Anxiety and depression is still something I have to battle everyday, but the patience and understanding of everyone around me has made it a lot easier.
 
-It’s all down to you, yuck, what a horrifying thought. WOAH, hold on, is it? Really?
+Day by day, I motivate myself to take steps into getting out of my comfort zone in order to improve my mental health. I have also grown an appreciation for my parents’ patience. It is difficult to have lived a life in another country with a certain mindset then to raise a child who thinks the complete opposite. So, do take the time and thank those who have supported you in your journey to better mental health because it’s definitely not always the smoothest journey.
 
-My most severe bipolar experiences have been top-of-the-range swings from mania to depression, and I’m relieved to say that in recent years I have learned techniques which allow me to manage and support my lifestyle in many ways. I have had to apply these techniques mostly when alone, mostly when it's been just me.
-
-Of course, when it wasn’t easy, it really wasn’t easy, but over time, I’ve learned to react less to my feelings. I’ve known that those around can’t always be there, they can’t always just be at the door, or on the end of the phone - they have lives too, and they need to live them. Sometimes having only myself to rely on, has been the best form of help.
-
-Help and support can show up in many ways, friends can be amazing. I’ve been grateful so many times to so many incredible friends, but all the same, I’ve been grateful to myself, because I’ve needed to manage the storm alone.
-
-You can’t always be there for someone living with mental illness – but when you can, be that friend who stays the night and watches terrible films past 2am; be that friend who listens fully; be that friend who doesn't become a ghost. You can't fix a storm, but you can be there while it rages, and it will pass.
+https://adaa.org/living-with-anxiety/personal-stories/please-dont-tell-me-pray-my-anxiety-away

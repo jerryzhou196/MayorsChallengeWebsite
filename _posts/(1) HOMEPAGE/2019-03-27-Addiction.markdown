@@ -5,8 +5,8 @@ date:   2016-06-13 10:51:47 +0530
 img: addiction.png
 category: "Homepage"
 ---
-<div class = "bigboy row col-md-12">
-Filler Content  <!-- addiction -->
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+Substance Abuse  <!-- addiction -->
 </div>
 
 <div class="row">
@@ -37,8 +37,8 @@ Filler Content  <!-- addiction -->
           {% endfor %}
     </div> 
 
-<div class = "bigboy row col-md-12">
-<h1>Filler Content 2</h1>  <!-- life2 -->
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+Gaming <!-- life2 -->
 </div>
 
 <div class="row">
@@ -46,7 +46,7 @@ Filler Content  <!-- addiction -->
         {% if post.category == "addiction2" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel {{ post.panelcolor }}">
+                <div class="panel fixed-panel {{ post.panelcolor }}">
                 <div class = "panel-heading" >
                 <h3 class = "panel-title"> {{ post.title | truncate: 50 }} </h3>
                 </div>

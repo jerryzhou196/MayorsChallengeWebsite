@@ -5,8 +5,10 @@ date:   2016-06-13 10:51:47 +0530
 img: anxiety.png
 category: "Homepage"
 ---
-<div class = "bigboy row col-md-12">
-Social Anxiety <!-- anxiety -->
+<!-- <div class = "damn" style = "margin-left: 115px; margin-right: 115px;"> -->
+<!-- style = "text-align: center; font-size: 50px;" anxiety  -->
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+Social Anxiety 
 </div>
 
 <div class="row">
@@ -37,8 +39,9 @@ Social Anxiety <!-- anxiety -->
           {% endfor %}
     </div> 
 
-<div class = "bigboy row col-md-12">
-Filler Content 2  <!-- life2 -->
+<!-- <div class = "bigboy row col-md-12" style = "font-size: 40px; text-align: center;"> -->
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+Generalized Anxiety <!-- life2 -->
 </div>
 
 <div class="row">
@@ -57,7 +60,7 @@ Filler Content 2  <!-- life2 -->
                   {% endif %} -->
                   <div class="panel-body">
                     <!-- <small> --> 
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }} <!-- </small> --> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 150 }} <!-- </small> --> <!-- <span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span> -->
                   </div>
                   <!-- <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>

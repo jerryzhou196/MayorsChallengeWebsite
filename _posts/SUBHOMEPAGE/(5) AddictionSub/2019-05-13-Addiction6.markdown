@@ -1,0 +1,15 @@
+---
+layout: post
+title: Resources
+date: 2016-06-13 10:51:47 +0530
+img: image-1.png
+category: "addiction2"
+panelcolor: "panel-danger"
+---
+This is where we will place professional resources that pertain to the topic above. If we win the Mayor’s Challenge, a portion of the money will be used towards hiring a professional therapist to write reliable and trusted links that prove the most helpful for Teenagers.  
+
+Here are a few generalized links we have found so far:
+
+<a href="https://calgaryconnecteen.com/" class="btn btn-success">Calgary Connecteen</a>
+<a href="http://cmha.calgary.ab.ca/" class="btn btn-info">Calgary Mental Health Association</a>
+<a href="https://www.distresscentre.com/" class="btn btn-warning">Distress Centre</a>

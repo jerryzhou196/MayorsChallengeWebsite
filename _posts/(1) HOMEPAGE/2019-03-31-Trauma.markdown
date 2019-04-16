@@ -5,7 +5,7 @@ date:   2016-06-13 10:51:47 +0530
 img: trauma.png
 category: "Homepage"
 ---
-<div class = "bigboy row col-md-12">
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
 Child Abuse <!-- trauma -->
 </div>
 
@@ -37,7 +37,7 @@ Child Abuse <!-- trauma -->
           {% endfor %}
     </div> 
 
-<div class = "bigboy row col-md-12">
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
 Death Of A Loved One <!-- life2 -->
 </div>
 
@@ -46,7 +46,7 @@ Death Of A Loved One <!-- life2 -->
         {% if post.category == "trauma2" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel {{ post.panelcolor }}">
+                <div class="panel fixed-panel {{ post.panelcolor }}">
                 <div class = "panel-heading" >
                 <h3 class = "panel-title"> {{ post.title | truncate: 50 }} </h3>
                 </div>
@@ -69,7 +69,7 @@ Death Of A Loved One <!-- life2 -->
           {% endfor %}
     </div> 
 
-<div class = "bigboy row col-md-12">
+<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
 Community Violence <!-- life2 -->
 </div>
 
@@ -78,7 +78,7 @@ Community Violence <!-- life2 -->
         {% if post.category == "trauma3" %} 
             <div class="col-md-4">
              <a href="{{ post.url | prepend: site.baseurl }}" class="index-anchor">    
-                <div class="panel {{ post.panelcolor }}">
+                <div class="panel fixed-panel {{ post.panelcolor }}">
                 <div class = "panel-heading" >
                 <h3 class = "panel-title"> {{ post.title | truncate: 50 }} </h3>
                 </div>
