@@ -1616,8 +1616,11 @@ pre code {
 }
 
 .row {
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 0px;
+  margin-right: 0px
+  
+  //margin-left: 50px;
+  //margin-right: 50px;
   //margin-left: -15px;
   //margin-right: -15px;
 }
@@ -5463,7 +5466,7 @@ button.list-group-item-danger.active:focus {
 .fixed-panel {
  min-height: 275px;
  max-height: 275px;
- //overflow-y: scroll;
+ overflow-y: auto;
  }
 
 .bigboy {
