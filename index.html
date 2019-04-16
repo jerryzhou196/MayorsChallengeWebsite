@@ -5,14 +5,14 @@ layout: default
 
 <!-- <div class = "damn" style = "margin-left: 80px; margin-right: 80px;">  fontsize: 6vh; text-align: center; -->
 <div class= "row">
-<div class = "bigboy col-md-12" style="margin-bottom: -10px; margin-top: -10px; font-size: 40px"> 
+<div class = "bigboy col-md-12" style="margin-bottom: 10px; margin-top: -10px; font-size: 40px"> 
  What's Troubling You?
 </div>
 </div>
 
 
 <div class="home">
-    <div class="row pack">
+    <div class="pack"> <!-- use to be row pack-->
         {% for post in site.posts %}  
         {% if post.category == "Homepage" %} 
             <div class="col-md-4 card">
