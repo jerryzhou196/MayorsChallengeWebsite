@@ -21,13 +21,13 @@ margin-top: 5px;
 <a href="https://calgaryconnecteen.com/" class="btn btn-primary">Calgary Connecteen</a>
 <a href="http://cmha.calgary.ab.ca/" class="btn btn-success">Calgary Mental Health Association</a>
 <a href="https://www.distresscentre.com/" class="btn btn-info">Distress Centre</a>
-<a href=" https://students.ubc.ca/health/health-topics/stress-anxiety" class = "btn btn-success"> UBC </a>
+<a href=" https://students.ubc.ca/health/health-topics/stress-anxiety" class = "btn btn-success"> Managing stress</a>
 <a href="https://www.anxietycanada.com/" class = "btn btn-warning"> The Trevor Project </a>
 <a href="http://www.ccdus.ca/Eng/Pages/Addictions-Treatment-Helplines-Canada.aspx" class = "btn btn-danger"> Helpline Canda </a>
 <a href="https://www.alberta.ca/bullying-find-supports.aspx" class = "btn btn-primary"> Alberta Help </a>
-<a href= "http://teenmentalhealth.org/care/parents/" class = "btn btn-danger"> Teen Mental Health </a>
-<a href = "https://kidshelpline.com.au/teens/issues/coping-with-loneliness" class = "btn btn-info"> Kids Help Line </a>
-<a href = "https://www.anxietycanada.com/contact" class = "btn btn-success"> Anxiety Canada </a>
+<a href= "http://teenmentalhealth.org" class = "btn btn-danger"> Teen Mental Health Guide </a>
+<a href = "https://kidshelpline.com.au/teens/issues/coping-with-loneliness" class = "btn btn-info"> Kids Help Line  </a>
+<a href = "https://www.anxietycanada.com/contact" class = "btn btn-success"> Anxiety Canada Resources</a>
 
 
 
