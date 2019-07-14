@@ -5,7 +5,7 @@ date:   2016-06-13 10:51:47 +0530
 img: phobias.png
 category: "Homepage"
 ---
-<div class = "bigboy col-md-12" style = "font-size: 40px; text-align: center; margin-bottom: 10px; margin-top: -10px;"> 
+<div class = "bigboy col-md-12" style = "font-size: 40px; margin-bottom: 10px; margin-top: -10px;"> 
 Social Phobia <!-- stress -->
 </div>
 
